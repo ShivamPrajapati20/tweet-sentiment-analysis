@@ -42,3 +42,6 @@ Social media platforms generate large volumes of unstructured text data. Underst
 ## Author
 Shivam Prajapati  
 LinkedIn: https://www.linkedin.com/in/shivam-prajapati20/
+
+##Dataset
+https://drive.google.com/drive/folders/1-9d6C5nnciSllh0b6ejPrI8pyHUtJB0k?usp=sharing
